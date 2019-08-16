@@ -1,0 +1,9 @@
+#A comment is written like this
+# Key value pair looks like
+# key = value1,value2,value3  <--Thereshould be no space between values
+# and so on
+timeperiod = 10
+IPMIDevQueryString = Baseboard 1.8V,Baseboard 5.0V,Baseboard 12V
+devinst = 0,1,2
+updeadband = 1
+downdeadband = 1
